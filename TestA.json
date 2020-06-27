@@ -1,21 +1,21 @@
 [
     {
-        "ID": "1",
+        "ID": 1,
         "Name": "Ahmad Sattout",
         "Text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sollicitudin, ante nec sodales elementum, diam justo tempor magna, <b>a ultrices justo eros sit amet neque. Cras dapibus vehicula libero<\/b>. Morbi justo dui, iaculis in leo nec, gravida lobortis tortor. Phasellus facilisis neque eleifend ipsum vulputate, posuere sollicitudin libero placerat. Proin mollis arcu sed orci fermentum lacinia. Aliquam orci eros, malesuada id malesuada vel, fermentum id dolor. <i>Donec iaculis euismod sem. Cras pretium tellus vehicula, eleifend ipsum eu, aliquet orci. Integer at mauris in massa tincidunt ultricies. Sed volutpat vitae arcu in pharetra.<\/i> Curabitur nec massa sodales, varius nisi ut, tincidunt elit. <u>Duis sollicitudin condimentum lorem iaculis lacinia. Nunc bibendum felis a elit ornare, ac pellentesque felis sagittis. Ut maximus a diam vitae eleifend.<\/u>",
         "Text-Plain": "",
         "Image": "https:\/\/www.businesselectronics.com\/wp-content\/uploads\/2018\/06\/Toshiba-Logo.png",
-        "Cost": "1500.012345",
-        "Nice": "1"
+        "Cost": 1500.012345,
+        "Nice": true
     },
     {
-        "ID": "2",
+        "ID": 2,
         "Name": "Good Test",
         "Text": "Donec vel eros eget risus fermentum tristique. <u>Mauris non quam a quam pellentesque mollis vitae id mi. Phasellus at rutrum felis, eu euismod arcu. Vivamus dictum massa pharetra risus eleifend, vel cursus elit vestibulum.<\/u> In in massa massa. Ut nec metus laoreet, aliquet odio vel, bibendum nisl. Vestibulum nibh lectus, cursus et dapibus at, imperdiet vel ipsum. Nunc rutrum ante vitae lectus scelerisque scelerisque. <b>Suspendisse potenti. Proin felis elit, posuere nec lectus nec, lacinia mollis lorem.<\/b>",
         "Text-Plain": "",
         "Image": "https:\/\/static1.squarespace.com\/static\/5890f99d9f7456cd34d19376\/t\/58c5eb99bebafb01e052c866\/1489366021063\/NBME-logo-bar-blue-square.png",
-        "Cost": "12800.78901",
-        "Nice": "0"
+        "Cost": 12800.78901,
+        "Nice": false
     },
     {
         "ID": "3",
@@ -23,16 +23,16 @@
         "Text": "Nulla quis massa in nisl euismod dignissim. Nulla erat ligula, convallis pretium leo in, congue tincidunt dui. Curabitur consectetur sagittis sodales. Donec aliquet, orci id tincidunt hendrerit, lectus nulla vehicula urna, quis consectetur odio dolor eu mi. Curabitur ut quam sit amet urna condimentum ultrices. <i>Praesent eleifend imperdiet neque cursus luctus. Praesent commodo lacus at eleifend consequat. Aenean cursus purus orci. Sed non est nunc.<\/i>",
         "Text-Plain": "Nulla quis massa in nisl euismod dignissim. Nulla erat ligula, convallis pretium leo in, congue tincidunt dui. Curabitur consectetur sagittis sodales. Donec aliquet, orci id tincidunt hendrerit, lectus nulla vehicula urna, quis consectetur odio dolor eu mi. Curabitur ut quam sit amet urna condimentum ultrices. Praesent eleifend imperdiet neque cursus luctus. Praesent commodo lacus at eleifend consequat. Aenean cursus purus orci. Sed non est nunc.",
         "Image": "https:\/\/static1.squarespace.com\/static\/5a4313c2aeb6258ba4005ba3\/t\/5c3fc1cdf950b7e303af350d\/1548034319420\/TRX+Training+Logo+Yellow+Square+FB+Page.jpg?format=500w",
-        "Cost": "1200000.0075",
-        "Nice": "0"
+        "Cost": 1200000.0075,
+        "Nice": false
     },
     {
-        "ID": "4",
+        "ID": 4,
         "Name": "Name Testing this is",
         "Text": "<i>Suspendisse sed nisi tincidunt, dapibus dui id, rutrum ante. Nam tincidunt, massa vitae auctor gravida, ipsum magna cursus nibh, nec varius ex massa sit amet quam. Phasellus ornare consequat libero quis dictum. Donec a placerat nulla. In aliquet sem nec eros lobortis iaculis. Nunc eget risus porta, tempor leo eget, vulputate ex.<\/i> Vivamus vel faucibus nunc. Fusce a nisl laoreet elit euismod tincidunt. Mauris enim tortor, bibendum a lacus sed, imperdiet convallis magna. Praesent eleifend dictum purus. Nullam diam nisl, tempus faucibus leo vel, vestibulum feugiat odio. Mauris sodales nisi volutpat lectus mattis, vitae posuere metus molestie.",
         "Text-Plain": "",
         "Image": "https:\/\/marketplace.canva.com\/MAC3_JkGRHk\/1\/0\/thumbnail_large-4\/canva-tyrian-purple-square-personal-logo-MAC3_JkGRHk.jpg",
-        "Cost": "500.02",
-        "Nice": "1"
+        "Cost": 500.02,
+        "Nice": false
     }
 ]
