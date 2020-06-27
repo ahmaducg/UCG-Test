@@ -1,137 +1,137 @@
 [
     {
-        "ID": "2",
-        "Mag": "3.25",
+        "ID": 2,
+        "Mag": 3.25,
         "Place": "The Geysers, CA",
-        "Time": "1554831221540",
+        "Time": 1554831221540,
         "Site": "6km WNW",
         "Title": "M 3.25 - 6km WNW of The Geysers, CA"
     },
     {
-        "ID": "3",
-        "Mag": "1.8",
+        "ID": 3,
+        "Mag": 1.8,
         "Place": "Anchor Point",
-        "Time": "1554830551629",
+        "Time": 1554830551629,
         "Site": "57km WNW",
         "Title": "M 1.8 - 57km WNW of Anchor Point, Alaska"
     },
     {
-        "ID": "4",
-        "Mag": "9.85",
+        "ID": 4,
+        "Mag": 9.85,
         "Place": "Valdez, Alaska",
-        "Time": "1554830468617",
+        "Time": 1554830468617,
         "Site": "73km W",
         "Title": "M 9.85 Ice Quake - 73km W of Valdez, Alaska"
     },
     {
-        "ID": "5",
-        "Mag": "1.7",
+        "ID": 5,
+        "Mag": 1.7,
         "Place": "Valdez, Alaska",
-        "Time": "1554830132088",
+        "Time": 1554830132088,
         "Site": "37km NNW",
         "Title": "M 1.7 - 37km NNW of Valdez, Alaska"
     },
     {
-        "ID": "6",
-        "Mag": "1.75",
+        "ID": 6,
+        "Mag": 1.75,
         "Place": "Banning, CA",
-        "Time": "1554829235370",
+        "Time": 1554829235370,
         "Site": "9km N",
         "Title": "M 1.8 - 9km N of Banning, CA"
     },
     {
-        "ID": "7",
-        "Mag": "5.2",
+        "ID": 7,
+        "Mag": 5.2,
         "Place": "The Geysers, CA",
-        "Time": "1554828313990",
+        "Time": 1554828313990,
         "Site": "9km NW",
         "Title": "M 5.28 - 9km NW of The Geysers, CA"
     },
     {
-        "ID": "8",
-        "Mag": "0.89",
+        "ID": 8,
+        "Mag": 0.89,
         "Place": "The Geysers, CA",
-        "Time": "1554827963640",
+        "Time": 1554827963640,
         "Site": "8km WNW",
         "Title": "M 0.9 - 8km WNW of The Geysers, CA"
     },
     {
-        "ID": "9",
-        "Mag": "1.64",
+        "ID": 9,
+        "Mag": 1.64,
         "Place": "Boron, CA",
-        "Time": "1554827830600",
+        "Time": 1554827830600,
         "Site": "6km NW",
         "Title": "M 1.6 Quarry Blast - 6km NW of Boron, CA"
     },
     {
-        "ID": "10",
-        "Mag": "4",
+        "ID": 10,
+        "Mag": 4,
         "Place": "Khandud, Afghanistan",
-        "Time": "1554827400312",
+        "Time": 1554827400312,
         "Site": "68km NE",
         "Title": "M 4.0 - 68km NE of Khandud, Afghanistan"
     },
     {
-        "ID": "11",
-        "Mag": "0.76",
+        "ID": 11,
+        "Mag": 0.76,
         "Place": "The Geysers, CA",
-        "Time": "1554827211700",
+        "Time": 1554827211700,
         "Site": "2km WNW",
         "Title": "M 0.76 - 2km WNW of The Geysers, CA"
     },
     {
-        "ID": "12",
-        "Mag": "2.8",
+        "ID": 12,
+        "Mag": 2.8,
         "Place": "Kaktovik, Alaska",
-        "Time": "1554827114124",
+        "Time": 1554827114124,
         "Site": "112km SSW",
         "Title": "M 2.8 - 112km SSW of Kaktovik, Alaska"
     },
     {
-        "ID": "13",
-        "Mag": "0.83",
+        "ID": 13,
+        "Mag": 0.83,
         "Place": "Cobb, CA",
-        "Time": "1554825908750",
+        "Time": 1554825908750,
         "Site": "6km WNW",
         "Title": "M 0.83 - 6km WNW of Cobb, CA"
     },
     {
-        "ID": "14",
-        "Mag": "1.6",
+        "ID": 14,
+        "Mag": 1.6,
         "Place": "Kobuk, Alaska",
-        "Time": "1554825285239",
+        "Time": 1554825285239,
         "Site": "68km SSW",
         "Title": "M 1.6 - 68km SSW of Kobuk, Alaska"
     },
     {
-        "ID": "15",
-        "Mag": "4.58",
+        "ID": 15,
+        "Mag": 4.58,
         "Place": "Goldfield, Nevada",
-        "Time": "1554825137689",
+        "Time": 1554825137689,
         "Site": "10km SSE",
         "Title": "M 4.58 - 10km SSE of Goldfield, Nevada"
     },
     {
-        "ID": "16",
-        "Mag": "1.3",
+        "ID": 16,
+        "Mag": 1.3,
         "Place": "Anchorage, Alaska",
-        "Time": "1554824892347",
+        "Time": 1554824892347,
         "Site": "18km ESE",
         "Title": "M 1.3 - 18km ESE of Anchorage, Alaska"
     },
     {
-        "ID": "17",
-        "Mag": "7.1",
+        "ID": 17,
+        "Mag": 7.1,
         "Place": "The Geysers, CA",
-        "Time": "1554824137320",
+        "Time": 1554824137320,
         "Site": "8km NW",
         "Title": "M 7.1 - 8km NW of The Geysers, CA"
     },
     {
-        "ID": "18",
-        "Mag": "2.96",
+        "ID": 18,
+        "Mag": 2.96,
         "Place": "Alamo, Nevada",
-        "Time": "1554823223308",
+        "Time": 1554823223308,
         "Site": "24km SW",
         "Title": "M 2.96 - 24km SW of Alamo, Nevada"
     }
